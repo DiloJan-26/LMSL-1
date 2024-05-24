@@ -1,0 +1,90 @@
+D:\LECTURES\SEMISTER 6\Industrial training\vs project\LMSL project 1\LMSL project 1\bin\Debug\LMSL project 1.exe.config
+D:\LECTURES\SEMISTER 6\Industrial training\vs project\LMSL project 1\LMSL project 1\bin\Debug\LMSL project 1.exe
+D:\LECTURES\SEMISTER 6\Industrial training\vs project\LMSL project 1\LMSL project 1\bin\Debug\LMSL project 1.pdb
+D:\LECTURES\SEMISTER 6\Industrial training\vs project\LMSL project 1\LMSL project 1\obj\Debug\LMSL_project_1.form1.resources
+D:\LECTURES\SEMISTER 6\Industrial training\vs project\LMSL project 1\LMSL project 1\obj\Debug\LMSL_project_1.Properties.Resources.resources
+D:\LECTURES\SEMISTER 6\Industrial training\vs project\LMSL project 1\LMSL project 1\obj\Debug\LMSL project 1.csproj.GenerateResource.cache
+D:\LECTURES\SEMISTER 6\Industrial training\vs project\LMSL project 1\LMSL project 1\obj\Debug\LMSL project 1.csproj.CoreCompileInputs.cache
+D:\LECTURES\SEMISTER 6\Industrial training\vs project\LMSL project 1\LMSL project 1\obj\Debug\LMSL project 1.exe
+D:\LECTURES\SEMISTER 6\Industrial training\vs project\LMSL project 1\LMSL project 1\obj\Debug\LMSL project 1.pdb
+D:\LECTURES\SEMISTER 6\Industrial training\vs project\New folder (2)\LMSL project 1\LMSL project 1\bin\Debug\LMSL project 1.exe.config
+D:\LECTURES\SEMISTER 6\Industrial training\vs project\New folder (2)\LMSL project 1\LMSL project 1\bin\Debug\LMSL project 1.exe
+D:\LECTURES\SEMISTER 6\Industrial training\vs project\New folder (2)\LMSL project 1\LMSL project 1\bin\Debug\LMSL project 1.pdb
+D:\LECTURES\SEMISTER 6\Industrial training\vs project\New folder (2)\LMSL project 1\LMSL project 1\obj\Debug\LMSL project 1.csproj.AssemblyReference.cache
+D:\LECTURES\SEMISTER 6\Industrial training\vs project\New folder (2)\LMSL project 1\LMSL project 1\obj\Debug\LMSL_project_1.form1.resources
+D:\LECTURES\SEMISTER 6\Industrial training\vs project\New folder (2)\LMSL project 1\LMSL project 1\obj\Debug\LMSL_project_1.Properties.Resources.resources
+D:\LECTURES\SEMISTER 6\Industrial training\vs project\New folder (2)\LMSL project 1\LMSL project 1\obj\Debug\LMSL project 1.csproj.GenerateResource.cache
+D:\LECTURES\SEMISTER 6\Industrial training\vs project\New folder (2)\LMSL project 1\LMSL project 1\obj\Debug\LMSL project 1.csproj.CoreCompileInputs.cache
+D:\LECTURES\SEMISTER 6\Industrial training\vs project\New folder (2)\LMSL project 1\LMSL project 1\obj\Debug\LMSL project 1.exe
+D:\LECTURES\SEMISTER 6\Industrial training\vs project\New folder (2)\LMSL project 1\LMSL project 1\obj\Debug\LMSL project 1.pdb
+D:\LECTURES\SEMISTER 6\Industrial training\vs project\New folder (3)\LMSL project 1\LMSL project 1\bin\Debug\LMSL project 1.exe.config
+D:\LECTURES\SEMISTER 6\Industrial training\vs project\New folder (3)\LMSL project 1\LMSL project 1\bin\Debug\LMSL project 1.exe
+D:\LECTURES\SEMISTER 6\Industrial training\vs project\New folder (3)\LMSL project 1\LMSL project 1\bin\Debug\LMSL project 1.pdb
+D:\LECTURES\SEMISTER 6\Industrial training\vs project\New folder (3)\LMSL project 1\LMSL project 1\obj\Debug\LMSL project 1.csproj.AssemblyReference.cache
+D:\LECTURES\SEMISTER 6\Industrial training\vs project\New folder (3)\LMSL project 1\LMSL project 1\obj\Debug\LMSL_project_1.form1.resources
+D:\LECTURES\SEMISTER 6\Industrial training\vs project\New folder (3)\LMSL project 1\LMSL project 1\obj\Debug\LMSL_project_1.Properties.Resources.resources
+D:\LECTURES\SEMISTER 6\Industrial training\vs project\New folder (3)\LMSL project 1\LMSL project 1\obj\Debug\LMSL project 1.csproj.GenerateResource.cache
+D:\LECTURES\SEMISTER 6\Industrial training\vs project\New folder (3)\LMSL project 1\LMSL project 1\obj\Debug\LMSL project 1.csproj.CoreCompileInputs.cache
+D:\LECTURES\SEMISTER 6\Industrial training\vs project\New folder (3)\LMSL project 1\LMSL project 1\obj\Debug\LMSL project 1.exe
+D:\LECTURES\SEMISTER 6\Industrial training\vs project\New folder (3)\LMSL project 1\LMSL project 1\obj\Debug\LMSL project 1.pdb
+D:\LECTURES\SEMISTER 6\Industrial training\vs project\New folder (5)\LMSL project 1\LMSL project 1\bin\Debug\LMSL project 1.exe.config
+D:\LECTURES\SEMISTER 6\Industrial training\vs project\New folder (5)\LMSL project 1\LMSL project 1\bin\Debug\LMSL project 1.exe
+D:\LECTURES\SEMISTER 6\Industrial training\vs project\New folder (5)\LMSL project 1\LMSL project 1\bin\Debug\LMSL project 1.pdb
+D:\LECTURES\SEMISTER 6\Industrial training\vs project\New folder (5)\LMSL project 1\LMSL project 1\obj\Debug\LMSL project 1.csproj.AssemblyReference.cache
+D:\LECTURES\SEMISTER 6\Industrial training\vs project\New folder (5)\LMSL project 1\LMSL project 1\obj\Debug\LMSL_project_1.form1.resources
+D:\LECTURES\SEMISTER 6\Industrial training\vs project\New folder (5)\LMSL project 1\LMSL project 1\obj\Debug\LMSL_project_1.Properties.Resources.resources
+D:\LECTURES\SEMISTER 6\Industrial training\vs project\New folder (5)\LMSL project 1\LMSL project 1\obj\Debug\LMSL project 1.csproj.GenerateResource.cache
+D:\LECTURES\SEMISTER 6\Industrial training\vs project\New folder (5)\LMSL project 1\LMSL project 1\obj\Debug\LMSL project 1.csproj.CoreCompileInputs.cache
+D:\LECTURES\SEMISTER 6\Industrial training\vs project\New folder (5)\LMSL project 1\LMSL project 1\obj\Debug\LMSL project 1.exe
+D:\LECTURES\SEMISTER 6\Industrial training\vs project\New folder (5)\LMSL project 1\LMSL project 1\obj\Debug\LMSL project 1.pdb
+D:\LECTURES\SEMISTER 6\Industrial training\vs project\New folder (6)\LMSL project 1\LMSL project 1\bin\Debug\LMSL project 1.exe.config
+D:\LECTURES\SEMISTER 6\Industrial training\vs project\New folder (6)\LMSL project 1\LMSL project 1\bin\Debug\LMSL project 1.exe
+D:\LECTURES\SEMISTER 6\Industrial training\vs project\New folder (6)\LMSL project 1\LMSL project 1\bin\Debug\LMSL project 1.pdb
+D:\LECTURES\SEMISTER 6\Industrial training\vs project\New folder (6)\LMSL project 1\LMSL project 1\obj\Debug\LMSL project 1.csproj.AssemblyReference.cache
+D:\LECTURES\SEMISTER 6\Industrial training\vs project\New folder (6)\LMSL project 1\LMSL project 1\obj\Debug\LMSL_project_1.form1.resources
+D:\LECTURES\SEMISTER 6\Industrial training\vs project\New folder (6)\LMSL project 1\LMSL project 1\obj\Debug\LMSL_project_1.Properties.Resources.resources
+D:\LECTURES\SEMISTER 6\Industrial training\vs project\New folder (6)\LMSL project 1\LMSL project 1\obj\Debug\LMSL project 1.csproj.GenerateResource.cache
+D:\LECTURES\SEMISTER 6\Industrial training\vs project\New folder (6)\LMSL project 1\LMSL project 1\obj\Debug\LMSL project 1.csproj.CoreCompileInputs.cache
+D:\LECTURES\SEMISTER 6\Industrial training\vs project\New folder (6)\LMSL project 1\LMSL project 1\obj\Debug\LMSL project 1.exe
+D:\LECTURES\SEMISTER 6\Industrial training\vs project\New folder (6)\LMSL project 1\LMSL project 1\obj\Debug\LMSL project 1.pdb
+D:\LECTURES\SEMISTER 6\Industrial training\vs project\New folder (6)\New folder\LMSL project 1\LMSL project 1\bin\Debug\LMSL project 1.exe.config
+D:\LECTURES\SEMISTER 6\Industrial training\vs project\New folder (6)\New folder\LMSL project 1\LMSL project 1\bin\Debug\LMSL project 1.exe
+D:\LECTURES\SEMISTER 6\Industrial training\vs project\New folder (6)\New folder\LMSL project 1\LMSL project 1\bin\Debug\LMSL project 1.pdb
+D:\LECTURES\SEMISTER 6\Industrial training\vs project\New folder (6)\New folder\LMSL project 1\LMSL project 1\obj\Debug\LMSL project 1.csproj.AssemblyReference.cache
+D:\LECTURES\SEMISTER 6\Industrial training\vs project\New folder (6)\New folder\LMSL project 1\LMSL project 1\obj\Debug\LMSL_project_1.form1.resources
+D:\LECTURES\SEMISTER 6\Industrial training\vs project\New folder (6)\New folder\LMSL project 1\LMSL project 1\obj\Debug\LMSL_project_1.Properties.Resources.resources
+D:\LECTURES\SEMISTER 6\Industrial training\vs project\New folder (6)\New folder\LMSL project 1\LMSL project 1\obj\Debug\LMSL project 1.csproj.GenerateResource.cache
+D:\LECTURES\SEMISTER 6\Industrial training\vs project\New folder (6)\New folder\LMSL project 1\LMSL project 1\obj\Debug\LMSL project 1.csproj.CoreCompileInputs.cache
+D:\LECTURES\SEMISTER 6\Industrial training\vs project\New folder (6)\New folder\LMSL project 1\LMSL project 1\obj\Debug\LMSL project 1.exe
+D:\LECTURES\SEMISTER 6\Industrial training\vs project\New folder (6)\New folder\LMSL project 1\LMSL project 1\obj\Debug\LMSL project 1.pdb
+D:\LECTURES\SEMISTER 6\Industrial training\vs project\New folder (6)\New folder 2\LMSL project 1\LMSL project 1\bin\Debug\LMSL project 1.exe.config
+D:\LECTURES\SEMISTER 6\Industrial training\vs project\New folder (6)\New folder 2\LMSL project 1\LMSL project 1\bin\Debug\LMSL project 1.exe
+D:\LECTURES\SEMISTER 6\Industrial training\vs project\New folder (6)\New folder 2\LMSL project 1\LMSL project 1\bin\Debug\LMSL project 1.pdb
+D:\LECTURES\SEMISTER 6\Industrial training\vs project\New folder (6)\New folder 2\LMSL project 1\LMSL project 1\obj\Debug\LMSL project 1.csproj.AssemblyReference.cache
+D:\LECTURES\SEMISTER 6\Industrial training\vs project\New folder (6)\New folder 2\LMSL project 1\LMSL project 1\obj\Debug\LMSL_project_1.form1.resources
+D:\LECTURES\SEMISTER 6\Industrial training\vs project\New folder (6)\New folder 2\LMSL project 1\LMSL project 1\obj\Debug\LMSL_project_1.Properties.Resources.resources
+D:\LECTURES\SEMISTER 6\Industrial training\vs project\New folder (6)\New folder 2\LMSL project 1\LMSL project 1\obj\Debug\LMSL project 1.csproj.GenerateResource.cache
+D:\LECTURES\SEMISTER 6\Industrial training\vs project\New folder (6)\New folder 2\LMSL project 1\LMSL project 1\obj\Debug\LMSL project 1.csproj.CoreCompileInputs.cache
+D:\LECTURES\SEMISTER 6\Industrial training\vs project\New folder (6)\New folder 2\LMSL project 1\LMSL project 1\obj\Debug\LMSL project 1.exe
+D:\LECTURES\SEMISTER 6\Industrial training\vs project\New folder (6)\New folder 2\LMSL project 1\LMSL project 1\obj\Debug\LMSL project 1.pdb
+D:\LECTURES\SEMISTER 6\Industrial training\vs project\z.final\New folder 2\LMSL project 1\LMSL project 1\obj\Debug\LMSL project 1.csproj.AssemblyReference.cache
+D:\LECTURES\SEMISTER 6\Industrial training\vs project\z.final\New folder 2\LMSL project 1\LMSL project 1\obj\Debug\LMSL_project_1.form1.resources
+D:\LECTURES\SEMISTER 6\Industrial training\vs project\z.final\New folder 2\LMSL project 1\LMSL project 1\obj\Debug\LMSL_project_1.Properties.Resources.resources
+D:\LECTURES\SEMISTER 6\Industrial training\vs project\z.final\New folder 2\LMSL project 1\LMSL project 1\obj\Debug\LMSL project 1.csproj.GenerateResource.cache
+D:\LECTURES\SEMISTER 6\Industrial training\vs project\z.final\New folder 2\LMSL project 1\LMSL project 1\obj\Debug\LMSL project 1.csproj.CoreCompileInputs.cache
+D:\LECTURES\SEMISTER 6\Industrial training\vs project\z.final\New folder 2\LMSL project 1\LMSL project 1\obj\Debug\LMSL project 1.exe
+D:\LECTURES\SEMISTER 6\Industrial training\vs project\z.final\New folder 2\LMSL project 1\LMSL project 1\obj\Debug\LMSL project 1.pdb
+D:\LECTURES\SEMISTER 6\Industrial training\vs project\z.final\New folder 2\LMSL project 1\LMSL project 1\bin\Debug\LMSL project 1.exe.config
+D:\LECTURES\SEMISTER 6\Industrial training\vs project\z.final\New folder 2\LMSL project 1\LMSL project 1\bin\Debug\LMSL project 1.exe
+D:\LECTURES\SEMISTER 6\Industrial training\vs project\z.final\New folder 2\LMSL project 1\LMSL project 1\bin\Debug\LMSL project 1.pdb
+D:\LECTURES\SEMISTER 6\Industrial training\vs project\LMSL project 1\LMSL project 1\obj\Debug\LMSL project 1.csproj.AssemblyReference.cache
+D:\LECTURES\SEMISTER 6\Industrial training\vs project\now working\LMSL project 1\LMSL project 1\bin\Debug\LMSL project 1.exe.config
+D:\LECTURES\SEMISTER 6\Industrial training\vs project\now working\LMSL project 1\LMSL project 1\bin\Debug\LMSL project 1.exe
+D:\LECTURES\SEMISTER 6\Industrial training\vs project\now working\LMSL project 1\LMSL project 1\bin\Debug\LMSL project 1.pdb
+D:\LECTURES\SEMISTER 6\Industrial training\vs project\now working\LMSL project 1\LMSL project 1\obj\Debug\LMSL project 1.csproj.AssemblyReference.cache
+D:\LECTURES\SEMISTER 6\Industrial training\vs project\now working\LMSL project 1\LMSL project 1\obj\Debug\LMSL_project_1.form1.resources
+D:\LECTURES\SEMISTER 6\Industrial training\vs project\now working\LMSL project 1\LMSL project 1\obj\Debug\LMSL_project_1.Properties.Resources.resources
+D:\LECTURES\SEMISTER 6\Industrial training\vs project\now working\LMSL project 1\LMSL project 1\obj\Debug\LMSL project 1.csproj.GenerateResource.cache
+D:\LECTURES\SEMISTER 6\Industrial training\vs project\now working\LMSL project 1\LMSL project 1\obj\Debug\LMSL project 1.csproj.CoreCompileInputs.cache
+D:\LECTURES\SEMISTER 6\Industrial training\vs project\now working\LMSL project 1\LMSL project 1\obj\Debug\LMSL project 1.exe
+D:\LECTURES\SEMISTER 6\Industrial training\vs project\now working\LMSL project 1\LMSL project 1\obj\Debug\LMSL project 1.pdb

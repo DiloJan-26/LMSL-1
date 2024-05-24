@@ -1,0 +1,4 @@
+﻿Rebuild started...
+1>------ Rebuild All started: Project: LMSL project 1, Configuration: Debug Any CPU ------
+1>  LMSL project 1 -> D:\LECTURES\SEMISTER 6\Industrial training\vs project\LMSL project 1\LMSL project 1\bin\Debug\LMSL project 1.exe
+========== Rebuild All: 1 succeeded, 0 failed, 0 skipped ==========
